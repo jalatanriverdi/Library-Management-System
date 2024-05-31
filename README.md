@@ -34,8 +34,6 @@ The RatingCalculator is a Java program which will use reviews and ratings from t
 
 # Code Structure
 This project consists of several classes that manage different functions. Together these classes handles user management, data processing and provides interactive tools for both regular users and admins.
-# YouTube presentation 
-link: https://youtu.be/8VEVkg-7biQ?si=d7sQHLpnDyJFzGm-
 
 # Thanks
-Thank you for using our application! We appreciate your interest and hope you find it helpful. If you have any feedback or encounter any issues, please don't hesitate to contact us.
+Thank you for using the application!
